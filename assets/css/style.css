@@ -201,3 +201,7 @@ footer p {
 .all img {
     cursor: pointer;
 }
+
+#banner-left-btn, #banner-right-btn {
+    cursor: pointer;
+}
